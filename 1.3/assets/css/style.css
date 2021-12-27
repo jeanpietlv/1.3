@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: lightgrey;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav ul {
+    background-color: grey;
+}
+
+a {
+    color: darkred;
+}
+
+div.first img {
+    width: 400px;
+    height:400px;
+}
+
+section.second img {
+    width: 600px;
+    height: 600px;
+}
+
+section.third img {
+    width: 800px;
+    height: 600px;
+}
+
+.darkred {
+    color: darkred;
+}

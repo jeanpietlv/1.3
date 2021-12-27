@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+article {
+    background-image: url("https://picsum.photos/300/200");
+    background-repeat:no-repeat;
+    background-position: right;
+}
+
+section {
+    background-image: url("https://www.w3schools.com/css/gradient_bg_vertical.png");
+    background-repeat: repeat-y;
+}
+
+section h1 {
+    background-color: lightblue;
+}
+
