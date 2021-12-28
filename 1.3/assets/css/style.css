@@ -13,6 +13,7 @@ nav ul {
 
 a {
     color: darkred;
+    text-decoration: none;
 }
 
 div.first img {
